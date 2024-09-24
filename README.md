@@ -1,7 +1,7 @@
 A personal project. I was reading the book "Ultralearning when I thought this might be a good idea to try to implement to help me studies along.
 
 # ROAD MAP
-- [ ] Get a basic UI in place (maybe OpenUI)
+- [ ] Get a basic UI in place (maybe Gradio)
 - [ ] Get a basic quiz generator in place
     - [ ] Using LangChain
 	    - [ ] Open-Ended Questions
