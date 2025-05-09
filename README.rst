@@ -1,4 +1,4 @@
-A personal project. I was reading the book "Ultralearning when I thought this might be a good idea to try to implement to help me studies along.
+A personal project. I was reading the book "Ultralearning" when I thought this might be a good idea to try to implement to help me studies along.
 
 # ROAD MAP
 - [ ] Get a basic UI in place (maybe Gradio)
